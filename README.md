@@ -2,6 +2,6 @@
 
  ## Installation
 ### Python:
-    $ pip install pygame
+      pip install pygame
 ### Flask:
       pip install flask
