@@ -4,3 +4,4 @@
 ### Python:
     $ pip install pygame
 ### Flask:
+      pip install flask
