@@ -5,4 +5,4 @@
       pip install pygame
 ### Flask:
       pip install flask
-You can check that has been
+You can check that it has been
