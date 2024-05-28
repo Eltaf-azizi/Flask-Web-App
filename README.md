@@ -2,6 +2,7 @@
 
  ## Installation
 ### Python:
+
       pip install pygame
 ### Flask:
 
